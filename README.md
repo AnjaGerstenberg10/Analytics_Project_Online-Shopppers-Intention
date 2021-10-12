@@ -2,7 +2,7 @@
 
 ### What's the project about?
 
-This was a project for my course "Analytical Information Systems" in the 4th semester. The goal of the work was to analyze the data and to train algorithms in such a way that they predict which customer will buy something.
+This was a project for my course "Analytical Information Systems" in the 5th semester. The goal of the work was to analyze the data and to train algorithms in such a way that they predict which customer will buy something.
 
 ### Which programming languages & technologies were used?
 
