@@ -13,7 +13,8 @@ The notebook was programmed with Python in Kaggle
 KNN
 Decision Tree
 Random Forest
-Who worked on the projekt?
+
+### Who worked on the projekt?
 
 This was a teamwork with Mona Orschmann
 
